@@ -18,7 +18,7 @@
 
 ## 🔬 About Me
 
-I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** (CGPA: 3.89/4.00, 3rd position) from Bangladesh University of Professionals, passionate about advancing technology through AI/ML innovations.
+I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** from Bangladesh University of Professionals, passionate about advancing technology through AI/ML innovations.
 
 🎯 **Currently pursuing PhD opportunities**
 
