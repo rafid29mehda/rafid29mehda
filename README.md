@@ -10,7 +10,6 @@
 
 <div align="center">
 
-**🎯 Research Interests:** Machine Learning | Deep Learning | Signal Processing | Knowledge Distillation | Data Privacy | Biomedical AI
 
 </div>
 
