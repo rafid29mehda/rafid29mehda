@@ -20,7 +20,7 @@
 
 I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** (CGPA: 3.89/4.00, 3rd position) from Bangladesh University of Professionals, passionate about advancing technology through AI/ML innovations.
 
-🎯 **Currently pursuing funded PhD opportunities in the USA for Fall 2026**, focusing on **Knowledge Distillation** and **Biomedical Signal Processing**
+🎯 **Currently pursuing PhD opportunities**
 
 ### 🌟 Quick Highlights
 - 🏆 **Dean's Award** recipient for outstanding academic performance (Top 3%)
