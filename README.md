@@ -18,13 +18,13 @@
 
 ## 🔬 About Me
 
-I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** (CGPA: 3.89/4.00, 3rd position) from Bangladesh University of Professionals, passionate about advancing healthcare through AI/ML technologies. Currently working as a **Research Assistant** under Prof. Muhammad E. H. Chowdhury, PhD, SMIEEE at Qatar University on QNRF-funded projects.
+I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** (CGPA: 3.89/4.00, 3rd position) from Bangladesh University of Professionals, passionate about advancing technology through AI/ML innovations.
 
 🎯 **Currently pursuing funded PhD opportunities in the USA for Fall 2026**, focusing on **Knowledge Distillation** and **Biomedical Signal Processing**
 
 ### 🌟 Quick Highlights
 - 🏆 **Dean's Award** recipient for outstanding academic performance (Top 3%)
-- 📄 **2 First-Author Conference Papers** published (TCCE 2024)
+- 📄 **2 First-Author Conference Papers** (TCCE 2024)
 - 📝 **1 Q1 Journal Paper** under review (Undergraduate Thesis)
 - ☁️ **Microsoft Certified Azure Administrator Associate (AZ-104)**
 - 🤖 **MLOps Intern** at Dohatec New Media
@@ -77,7 +77,7 @@ I'm a **fresh graduate** with a **BSc in Information and Communication Engineeri
 
 <div align="center">
 
-### 💭 *"Advancing healthcare through intelligent systems - one algorithm at a time"*
+### 💭 *"Advancing life through innovative research and intelligent systems"*
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
