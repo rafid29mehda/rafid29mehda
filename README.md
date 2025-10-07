@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">🎓 Fresh Graduate | 🔬 ML/DL Researcher | 🚀 PhD Aspirant (Fall 2026)</h3>
+<h3 align="center">🎓 Fresh Graduate | 🔬 ML/DL Researcher | 🚀 PhD Aspirant</h3>
 
 <div align="center">
 
