@@ -63,9 +63,10 @@ I'm a **fresh graduate** with a **BSc in Information and Communication Engineeri
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rafidmehda](https://www.linkedin.com/in/rafid-mehda-bb95851b1/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafid-mehda-bb95851b1/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafidmehda29@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/rafidmehda](https://github.com/rafid29mehda))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafid29mehda)
+
 
 📍 **Location:** Dhaka, Bangladesh  
 ✉️ **Email:** rafidmehda29@gmail.com
