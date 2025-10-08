@@ -44,7 +44,7 @@ I'm a **fresh graduate** with a **BSc in Information and Communication Engineeri
 
 
 ### Cloud & Tools
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF3B6A?style=flat-square&logo=huggingface&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
