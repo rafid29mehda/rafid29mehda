@@ -27,7 +27,8 @@ I'm a **fresh graduate** with a **BSc in Information and Communication Engineeri
 - 📝 **1 Q1 Journal Paper** under review (Undergraduate Thesis)
 - ☁️ **Microsoft Certified Azure Administrator Associate (AZ-104)**
 - 🤖 **MLOps Intern** at Dohatec New Media
-- 👥 **President** of BUP Robotics Club & **Community Developer** at Microsoft Learn Student Ambassadors
+- 👥 **President** of BUP Robotics Club 
+- 👥 **Community Developer** at Microsoft Learn Student Ambassadors
 
 ---
 
