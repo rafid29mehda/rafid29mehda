@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">🎓 Fresh Graduate | 🔬 Researcher</h3>
+<h3 align="center">🎓 AI Engineer | 🔬 Researcher</h3>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## 🔬 About Me
 
-I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** from Bangladesh University of Professionals, passionate about advancing technology through AI/ML innovations.
+I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** from Bangladesh University of Professionals, passionate about advancing technology through AI and ML innovations.
 
 🎯 **Currently pursuing PhD opportunities**
 
