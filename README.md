@@ -19,8 +19,6 @@
 
 I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** from Bangladesh University of Professionals, passionate about advancing technology through AI and ML innovations.
 
-🎯 **Currently pursuing PhD opportunities**
-
 ### 🌟 Quick Highlights
 - 🏆 **Dean's Award** recipient for outstanding academic performance (Top 3%)
 - 📄 **2 First-Author Conference Papers** (TCCE 2024)
