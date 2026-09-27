@@ -1,7 +1,7 @@
 <h1 align="center">Rafid Mehda</h1>
 
 <p align="center">
-  AI Engineer @ ACI Ltd · Research Fellow @ ELITE Research Lab · B.Sc. ICE, Bangladesh University of Professionals (CGPA 3.89/4.00)
+  AI Engineer @ACI Ltd · Research Fellow @ELITE Research Lab · B.Sc. ICE, Bangladesh University of Professionals (CGPA 3.89/4.00)
 </p>
 
 <p align="center">
