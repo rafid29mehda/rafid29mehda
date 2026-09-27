@@ -1,83 +1,48 @@
-# Hi 👋, I'm Rafid Mehda
+<h1 align="center">Rafid Mehda</h1>
 
-<div align="center">
+<p align="center">
+  AI Engineer @ ACI Ltd · Research Fellow @ ELITE Research Lab · B.Sc. ICE, Bangladesh University of Professionals (CGPA 3.89/4.00)
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafidmehda&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
-<h3 align="center">🎓 AI Engineer | 🔬 Researcher</h3>
-
-<div align="center">
-
-
-</div>
-
----
-
-## 🔬 About Me
-
-I'm a **fresh graduate** with a **BSc in Information and Communication Engineering** from Bangladesh University of Professionals, passionate about advancing technology through AI and ML innovations.
-
-### 🌟 Quick Highlights
-- 🏆 **Dean's Award** recipient for outstanding academic performance (Top 3%)
-- 📄 **2 First-Author Conference Papers** (TCCE 2024)
-- 📝 **1 Q1 Journal Paper** under review (Undergraduate Thesis)
-- ☁️ **Microsoft Certified Azure Administrator Associate (AZ-104)**
-- 🤖 **MLOps Intern** at Dohatec New Media
-- 👥 **President** of BUP Robotics Club 
-- 👥 **Community Developer** at Microsoft Learn Student Ambassadors
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Programming & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-
-### Cloud & Tools
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF3B6A?style=flat-square&logo=huggingface&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=matlab&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-
-</div>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=aNayECwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.linkedin.com/in/rafid-mehda-bb95851b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rafidmehda29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 
 ---
 
-## 📫 Let's Connect!
+## Publications
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafid-mehda-bb95851b1/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafidmehda29@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafid29mehda)
-
-
-📍 **Location:** Dhaka, Bangladesh  
-✉️ **Email:** rafidmehda29@gmail.com
-
-</div>
+- **Mehda, R.**, Oishi, R. A., Alam, T. T., Morol, M. K., & Hui, L. T. (2026). *Cross-modal bias in medical vision-language models: A pipeline-aware framework for mechanisms, evaluation, and mitigation.* **Frontiers in Digital Health**, 8:1904053. [doi:10.3389/fdgth.2026.1904053](https://doi.org/10.3389/fdgth.2026.1904053)
+- **Mehda, R.**, Akhter, N., Tasnim, A., & Rahman, M. S. (2026). *H2AN-BiLSTM: A hierarchical attention model for classifying software requirements.* TCCE 2024, Springer LNNS 1588. [doi:10.1007/978-981-95-1069-6_12](https://doi.org/10.1007/978-981-95-1069-6_12)
+- Tasnim, A., **Mehda, R.**, Rahman, M. S., & Akhter, N. (2026). *Dynamic feature selection with attention mechanism: BiLSTM-CNN hybrid approach for network intrusion detection.* TCCE 2024, Springer LNNS 1588. [doi:10.1007/978-981-95-1069-6_36](https://doi.org/10.1007/978-981-95-1069-6_36)
 
 ---
 
-<div align="center">
+## News
 
-### 💭 *"Advancing life through innovative research and intelligent systems"*
+- **Aug 2026**: Peer-reviewed paper on cross-modal bias in medical vision-language models published in *Frontiers in Digital Health*.
+- **May 2026**: Joined **ACI Ltd** as an AI Engineer (multi-agent RAG, computer-vision quality control).
+- **Dec 2025**: Joined **ELITE Research Lab** as a Research Fellow.
+- **Nov 2025**: Peer-reviewed paper on H2AN-BiLSTM: A hierarchical attention model for classifying software requirements in *TCCE 2024*
+- **Nov 2025**: Peer-reviewed paper on Dynamic feature selection with attention mechanism: BiLSTM-CNN hybrid approach for network intrusion detection in *TCCE 2024*
+- **Aug 2025**: Graduated with a B.Sc. in Information and Communication Engineering, BUP.
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+---
 
-</div>
+
+## Honors
+
+- **Dean's Letter** and **Merit-based General Scholarship**, Bangladesh University of Professionals (SGPA 4.00/4.00 in the 6th–8th semesters)
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- **IELTS Academic 7.5**
+- **President**, BUP Robotics Club
+- **Community Developer**, Microsoft Learn Student Ambassadors BUP
+
+---
+
+<p align="center">
+  📍 Dhaka, Bangladesh · ✉️ <a href="mailto:rafidmehda29@gmail.com">rafidmehda29@gmail.com</a><br/>
+</p>
