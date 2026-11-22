@@ -25,7 +25,7 @@
 
 - **Nov 2026**: Paper on SycoMed: A Model-Agnostic Harness for Measuring Sycophancy in Medical Language Models accepted for oral presentation at *IEEE ICCIT 2026*.
 - **Aug 2026**: Peer-reviewed paper on cross-modal bias in medical vision-language models published in *Frontiers in Digital Health*.
-- **May 2026**: Joined **ACI Ltd** as an Applied AI Engineer.
+- **May 2026**: Joined **ACI Ltd's** **Advanced AI Lab** as an Applied AI Engineer.
 - **Dec 2025**: Joined **ELITE Research Lab** as a Research Fellow.
 - **Nov 2025**: Peer-reviewed paper on H2AN-BiLSTM: A hierarchical attention model for classifying software requirements in *TCCE 2024*
 - **Nov 2025**: Peer-reviewed paper on Dynamic feature selection with attention mechanism: BiLSTM-CNN hybrid approach for network intrusion detection in *TCCE 2024*
