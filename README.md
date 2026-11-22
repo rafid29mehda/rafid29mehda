@@ -23,6 +23,7 @@
 
 ## News
 
+- **Nov 2026**: Paper on SycoMed: A Model-Agnostic Harness for Measuring Sycophancy in Medical Language Models accepted for oral presentation at *IEEE ICCIT 2026*.
 - **Aug 2026**: Peer-reviewed paper on cross-modal bias in medical vision-language models published in *Frontiers in Digital Health*.
 - **May 2026**: Joined **ACI Ltd** as an Applied AI Engineer.
 - **Dec 2025**: Joined **ELITE Research Lab** as a Research Fellow.
